@@ -8,6 +8,7 @@
 * Fix CSV export icon for FontAwesome 5
 * Fix "can't modify frozen" in combination with Rails 6.1
 * Fix bug in "Dangerous query methods" deprecation warning fix in custom order when using Arel.sql again when using Ruby 3
+* Allow Rails 7 in gemspec lock
 
 ## 4.1.0 (28 November, 2018)
 
